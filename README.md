@@ -58,13 +58,21 @@ Live Stock Explorer: Fetch real-time price, volume, and key stats for 30+ global
 | Category | Library / Tool | Purpose |
 
 | Web Framework | Dash (Plotly) | Interactive multi-tab dashboard UI |
+
 | Data Visualization | Plotly Graph Objects | Line charts, bar charts, metrics table |
+
 | Live Market Data | yfinance | Fetches real-time stock prices and metadata |
+
 | Deep Learning | Keras / TensorFlow | LSTM model for sequence prediction |
+
 | Statistical Modeling | statsmodels (ARIMA) | Classical time series forecasting |
+
 | Data Processing | Pandas, NumPy | Data manipulation and numerical ops |
+
 | Preprocessing | scikit-learn (MinMaxScaler) | Feature normalization for LSTM |
+
 | Metrics | scikit-learn (MSE), math | RMSE and MAE computation |
+
 | Language | Python 3.x | Core language |
 
 ---
