@@ -8,9 +8,9 @@ A full-stack web dashboard for stock market analysis built with Dash and Python.
 
 The app runs as a multi-tab dashboard:
 
-| Tab | Description |
-| NSE-TATAGLOBAL — Model Comparison | Compare LSTM, ARIMA, and Moving Average predictions against actual closing prices |
-| Live Stock Explorer | Fetch real-time price, volume, and key stats for 30+ global stocks and ETFs |
+NSE-TATAGLOBAL — Model Comparison: Compare LSTM, ARIMA, and Moving Average predictions against actual closing prices 
+
+Live Stock Explorer: Fetch real-time price, volume, and key stats for 30+ global stocks and ETFs 
 
 ---
 
