@@ -139,7 +139,9 @@ All three models are evaluated on the same validation set (data after index 987)
 | Model | Approach | Strengths |
 
 | LSTM | Deep learning on 60-day sequences | Captures non-linear long-term patterns |
+
 | ARIMA (5,1,0) | Autoregressive statistical model | Works well on stationary, linear trends |
+
 | Moving Average (20d) | Rolling window average | Simple, fast, interpretable baseline |
 
 Performance is measured using RMSE (Root Mean Square Error) and MAE (Mean Absolute Error) — both displayed in the dashboard's metrics table.
